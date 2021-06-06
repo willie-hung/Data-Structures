@@ -48,7 +48,7 @@ void MergeSort(int A[], int p, int q)
     }
 }
 
-//Merge sort L & R arrays
+//Merge sort left & right arrays
 void mysort(int arr[], int l, int r)
 {
     MergeSort(arr, 0, l - 1);
@@ -70,6 +70,8 @@ void solve()
         cin >> v;
         gem[i] = v;
     }
+
+    //Execute
     mysort(gem, L, R);
 
     //Calculate change and move
