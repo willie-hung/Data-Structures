@@ -14,6 +14,11 @@ Guideline:
 - Hashing
 - And other advanced topics
 
+Professor:
+- 陳宜欣 Chen Yi-Shin
+- About: http://www.cs.nthu.edu.tw/~yishin/index.html
+- Course Link: http://www.cs.nthu.edu.tw/~yishin/courses/EECS2040/EECS2040-2021.html
+
 Editor:
 - VSCode
 
