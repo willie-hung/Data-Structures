@@ -1,4 +1,4 @@
-# 2021 Spring NTHU EECS Data Structure Course
+# 2021 Spring NTHU EECS Data Structures Course
 
 The objective of this course is to provide a solid training for understanding various data structures. Data structures can be considered as essential building blocks in modern computer science. 
 
