@@ -19,10 +19,8 @@ Professor:
 - About: http://www.cs.nthu.edu.tw/~yishin/index.html
 - Course Link: http://www.cs.nthu.edu.tw/~yishin/courses/EECS2040/EECS2040-2021.html
 
-Language & Editor:
-- C++ ![icons8-c++-48](https://user-images.githubusercontent.com/65143821/143173068-2932ffbe-f214-40ff-9f8c-a5f6c02e3b9f.png)
-
-- VSCode ![image](https://user-images.githubusercontent.com/65143821/143172970-027e3221-6c04-48a1-abce-2289285fc1eb.png)
+Programming Language & Editor:
+![icons8-c++-48](https://user-images.githubusercontent.com/65143821/143173068-2932ffbe-f214-40ff-9f8c-a5f6c02e3b9f.png) ![image](https://user-images.githubusercontent.com/65143821/143172970-027e3221-6c04-48a1-abce-2289285fc1eb.png)
 
 
 Extensions:
