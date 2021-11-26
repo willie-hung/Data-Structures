@@ -15,7 +15,7 @@ The objective of this course is to provide a solid training for understanding va
 - And other advanced topics
 
 ## Professor & Course Link:
-- 陳宜欣 Chen Yi-Shin
+- 陳宜欣 Dr. Chen Yi-Shin
 - About: http://www.cs.nthu.edu.tw/~yishin/index.html
 - Course Link: http://www.cs.nthu.edu.tw/~yishin/courses/EECS2040/EECS2040-2021.html
 
