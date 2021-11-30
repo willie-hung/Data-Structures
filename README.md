@@ -21,7 +21,7 @@ The objective of this course is to provide a solid training for understanding va
 
 ## Programming Language & Editor:
 
-![icons8-c++-48](https://user-images.githubusercontent.com/65143821/143173068-2932ffbe-f214-40ff-9f8c-a5f6c02e3b9f.png) ![image](https://user-images.githubusercontent.com/65143821/143172970-027e3221-6c04-48a1-abce-2289285fc1eb.png)
+![icons8-c++-48](https://user-images.githubusercontent.com/65143821/143173068-2932ffbe-f214-40ff-9f8c-a5f6c02e3b9f.png) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width=48px height=48px/> ![image](https://user-images.githubusercontent.com/65143821/143172970-027e3221-6c04-48a1-abce-2289285fc1eb.png)
 
 
 ## Extensions:
